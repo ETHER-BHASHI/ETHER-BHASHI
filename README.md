@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+
 <h1 align="center">Hi 👋, I'm BHASHI</h1>
 <h3 align="center">A passionate coder and developer from India</h3>
 
