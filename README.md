@@ -1,9 +1,9 @@
-![logo](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+
 
 <h1 align="center">Hi 👋, I'm BHASHI</h1>
 <h3 align="center">A passionate coder and developer from India</h3>
 
-<img align="right" alt="coding" width="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ether-bhashi&label=Profile%20views&color=0e75b6&style=flat" alt="ether-bhashi" /> </p>
 
